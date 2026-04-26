@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+*.pem
+build/
+target/
+*.class
+.DS_Store
